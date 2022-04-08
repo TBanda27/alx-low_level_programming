@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main 
- *
- * Return: Always (Success)
- */
+* main 
+*
+* Return: Always (Success)
+*/
 int main(void)
 {
 	char c;
