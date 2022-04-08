@@ -1,25 +1,22 @@
-task 9
 #include <stdio.h>
-
 /**
-  * main - Prints a serie of numbers with commas
-  *
-  * Return: Always (Success);
-  */
+ * main - Entry point
+ *
+ * Return: Always 0 (Success)
+ */
 int main(void)
 {
-	int c;
+int k;
 
-	for (c = '0'; c <= '9'; c++)
-	{
-		putchar(c);
-
-		if (c != '9')
-		{
-			putchar(',');
-			putchar(' ');
-		}
-	}
-	putchar('\n');
-	return (0);
+for (k = 48; k <= 57; k++)
+{
+putchar(k);
+if (k < 57)
+{
+putchar(',');
+putchar(' ');
+}
+}
+putchar('\n');
+return (0);
 }
