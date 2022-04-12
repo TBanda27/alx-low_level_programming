@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * _islower - returns 1 is lowercase, 0 otherwise
  * @c: Input parameter in ASCII
