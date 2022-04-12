@@ -1,4 +1,4 @@
-#include "main.h"
+#include <stdio.h>
 /**
 * main - function de sum all the number below 1024 multiples 3 or 5
 * void - no value into
