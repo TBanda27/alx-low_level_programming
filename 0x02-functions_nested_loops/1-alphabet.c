@@ -3,7 +3,7 @@
  * print_alphabet - entre point
  * Return: Always 0 (Success)
 */
-int main()
+int main(void)
 {
 	print_alphabet();
 	return (0);
