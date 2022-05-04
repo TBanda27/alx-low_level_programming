@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "holberton.h"
 #include <stdlib.h>
 /**
  * alloc_grid - prints a grid of integers
